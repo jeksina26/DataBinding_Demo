@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Data_Binding_Demo</string>
+    <string name="change_random">Change Random</string>
+    <string name="fruit_name">Random Fruit Name</string>
+</resources>
